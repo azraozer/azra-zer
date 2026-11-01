@@ -4,5 +4,5 @@
 - 🧠 Working on an independent research project about N2 to N3 sleep cycles
 - 📱 Developer of 'Block Neuro!' on the App Store
 # 📩 : azraozer1022@gmail.com
-# Linkedin : bash'''https://www.linkedin.com/in/azraozer/'''
-# PARZORFA STUDIO - Block Neuro! : bash'''https://parzorfastudio.web.app/'''
+# Linkedin : https://www.linkedin.com/in/azraozer/
+# PARZORFA STUDIO - Block Neuro! : https://parzorfastudio.web.app/
